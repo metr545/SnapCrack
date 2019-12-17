@@ -3,7 +3,7 @@
 """Basic Snapchat client
 
 Usage:
-  get_snaps.py -u <username> [-p <password> -q] <path>
+  get_snaps.py -u <swishof416> [-p <password> -q] <path>
 
 Options:
   -h --help                 Show usage
